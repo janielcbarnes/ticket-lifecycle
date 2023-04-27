@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/QblalI7.png" height="80%" width="80%" alt="ticket"/>
+<img src="https://i.imgur.com/lKaa7SJ.png" height="60%" width="60%" alt="ticket"/>
 </p>
 <p>
 This section demonstrates how to initially create the ticket within Osticket. Here the user will put in their contact information and select the reason of the ticket. Depending on the issue, will also determine the use of which service level agreement and how the ticket needs to be resolved.
@@ -33,17 +33,18 @@ This section demonstrates how to initially create the ticket within Osticket. He
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZiZ08GP.png" height="60%" width="60%" alt="details"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the user has initiated the ticket, they would then give a biref discription of the issue depending on which topic was selected. The ticket is assigned a ticket number that the agent will use to identify. All of the interactions and communications between the user and agent would fall under the note section. Inside the ticket we can also see which department the ticket is assigned to, the SLA used, and priority status. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o1jW3bk.png" height="50%" width="50%" alt="steps"/>
+<img src="https://i.imgur.com/mWxazfA.png" height="50%" width="50%" alt="steps 1"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the agent has been notified of the ticket, they can go in and make any updates regarding notes, priority level, or even transfer the ticket to other departments depending on if the issue needs escalation. If the ticket does not require escalation, the agent can work the ticket, notify the user that the ticket has been resolved and then close it by changing the ticket status at the bottom of the page. 
 </p>
 <br />
